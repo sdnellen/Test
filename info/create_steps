@@ -1,0 +1,5 @@
+1. create new repo in github / public, .gitignore java / apache 2.0
+2. click clown or download https, copy repo url to clipboard
+3. clone locally: go to ~snellenb/git / cmd= git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY using copied
+4. add new files to local repo: copy java under src directory / run git add dir/file
+5. remove any local only files using git rm: eg git rm -r --cached $full_test_name/output 
