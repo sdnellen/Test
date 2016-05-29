@@ -2,4 +2,8 @@
 2. click clown or download https, copy repo url to clipboard
 3. clone locally: go to ~snellenb/git / cmd= git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY using copied
 4. add new files to local repo: copy java under src directory / run git add dir/file
-5. remove any local only files using git rm: eg git rm -r --cached $full_test_name/output 
+5. remove any local only files using git rm: eg git rm -r --cached $full_test_name/output - keeps it local, but stages for delete in repo
+6. verfy w git status
+7. stage for initial commit: git commit -m "<Message>"
+8. commit new files to repo: git push -u origin master 
+9. create new eclipse java project in ...git/Test
