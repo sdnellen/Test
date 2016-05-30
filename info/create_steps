@@ -7,3 +7,4 @@
 7. stage for initial commit: git commit -m "<Message>"
 8. commit new files to repo: git push -u origin master 
 9. create new eclipse java project in ...git/Test
+10. update .gitignore for bin/, etc
