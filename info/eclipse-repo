@@ -1,0 +1,5 @@
+eclipse mars -> Create Java Project
+set name and set ws location to local clone dir git/repo
+project properties -> add external jars -> antlr-runtime-4.5.jar
+Need to create src/ordt.extract/MyDebugController.java from DebugController parent abstract class
+....run Ordt.java
