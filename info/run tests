@@ -1,0 +1,3 @@
+need java 1.7
+create test/scripts/test.setup reflecting local test setup
+update PATH to add test/scripts dir
